@@ -1,1 +1,1 @@
-# ML-Octave
+Machine Learning exercises using Octave
